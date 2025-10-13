@@ -8,7 +8,7 @@ A TCG card is aproximately 12 mil (millions of an inch) thick. To choose the app
 # Example media combinations
 ## [Paper](/media/paper)
 - Laminated
-  - 3 mil [laminator pouch](/hardware/laminator/#laminator-pouch) + ~10 mil [paper](/media/paper/)= 13 mil
+  - 3 mil [laminator pouch](/hardware/laminator/#laminator-pouch) + ~10 mil [paper](/media/paper/) = 13 mil
 - Unlaminated
   - ~5-15 mil [paper](/media/paper/)
 
