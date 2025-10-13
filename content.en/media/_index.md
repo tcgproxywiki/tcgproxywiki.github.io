@@ -3,7 +3,7 @@ title: "Media"
 weight: 4
 ---
 # Introduction {anchor=false}
-A TCG card is aproximately 12 mil (millions of an inch) thick. To choose the appropriate media you need to add each layer's thickness together.
+A TCG card is aproximately 12 mil thick. The unit "mil" refers to the thousandths place of an inch, so 12 mil == 0.012 in. To choose the appropriate media you need to add each layer's thickness together.
 
 # Example media combinations
 ## [Paper](/media/paper)
