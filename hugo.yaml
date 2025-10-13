@@ -94,7 +94,7 @@ params:
   # - In git information
   # - In blog posts
   # https://gohugo.io/functions/time/format/
-  BookDateFormat: "15 Oct 2023"
+  BookDateFormat: "2 Jan 2006"
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
