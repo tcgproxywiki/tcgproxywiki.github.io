@@ -1,4 +1,4 @@
-baseURL: http://0.0.0.0:1313/
+# baseURL: http://0.0.0.0:1313/
 title: TCG Proxy Wiki
 theme: hugo-book
 copyright: "[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)"
@@ -48,11 +48,11 @@ menu:
       weight: 40
       parent: "Get Started"
     - name: "Github"
-      url: "https://github.com/tcgproxywiki/tcg-proxy-wiki"
+      url: "https://github.com/tcgproxywiki/tcgproxywiki.github.io"
       weight: 2
   after:
     - name: "Github"
-      url: "https://github.com/tcgproxywiki/tcg-proxy-wiki"
+      url: "https://github.com/tcgproxywiki/tcgproxywiki.github.io"
       weight: 10
 # (Optional) Theme is intended for documentation use, therefore it doesn"t render taxonomy.
 # You can remove related files with config below
