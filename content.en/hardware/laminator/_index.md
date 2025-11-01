@@ -29,5 +29,5 @@ bookToC: false
     Wait before starting the next page so the rollers can heat up again
 
 5. ## Second pass (optional)
-    Run the cards back through once cut. This way they get more of the heat actually applied to the laminate before all the heat runs out.
+    Run the sheet back through.
 {{% /steps %}}

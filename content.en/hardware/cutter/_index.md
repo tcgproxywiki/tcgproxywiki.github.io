@@ -32,11 +32,14 @@ Cuts all four corners at once
 ## Cutting Machine
 Programmable cutting machine. See [cutting machine software](/software/#cutting-machine-software) to interact with these.
 
-### Silhouette America
-- **Silhouette Cameo 5** [{{< badge style="info" title="Amazon" value="$150" >}}](https://www.amazon.com/dp/B0CHY6627K)
+### Brother
+- **Brother ScanNCut** [{{< badge style="info" title="Amazon" value="$450" >}}](https://www.amazon.com/dp/B07QRB25T4)
 
 ### Cricut
 - Under construction
+
+### Silhouette America
+- **Silhouette Cameo 5** [{{< badge style="info" title="Amazon" value="$150" >}}](https://www.amazon.com/dp/B0CHY6627K)
 
 # Basic Cutter Workflow
 

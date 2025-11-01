@@ -18,6 +18,7 @@ Some software will download high resolution cards, but you will need to [upscale
 - MPC Autofill [{{< badge style="info" title="Website" >}}](https://mpcfill.com/) [{{< badge style="info" title="Github" >}}](https://github.com/chilli-axe/mpc-autofill)
 
 # PDF tools
+- Inkscape [{{< badge style="info" title="Website" >}}](https://inkscape.org/) [{{< badge style="info" title="Gitlab" >}}](https://gitlab.com/inkscape/inkscape)
 - Proxy PDF Maker [{{< badge style="info" title="Github" >}}](https://github.com/Malacath-92/Proxy-PDF-Maker)
 - Proxy Print [{{< badge style="info" title="Website" >}}](https://proxyprint.taxiera.net/) [{{< badge style="info" title="Github" >}}](https://github.com/alex-taxiera/proxy-print)
 
